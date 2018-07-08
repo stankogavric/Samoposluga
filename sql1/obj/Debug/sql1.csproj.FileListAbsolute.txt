@@ -1,0 +1,41 @@
+c:\users\student\documents\visual studio 2015\Projects\sql1\sql1\bin\Debug\sql1.exe.config
+c:\users\student\documents\visual studio 2015\Projects\sql1\sql1\bin\Debug\sql1.exe
+c:\users\student\documents\visual studio 2015\Projects\sql1\sql1\bin\Debug\sql1.pdb
+c:\users\student\documents\visual studio 2015\Projects\sql1\sql1\obj\Debug\sql1.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\sql1\sql1\obj\Debug\sql1.exe
+c:\users\student\documents\visual studio 2015\Projects\sql1\sql1\obj\Debug\sql1.pdb
+C:\Users\Milos\Desktop\sql1\sql1\sql1\bin\Debug\sql1.exe.config
+C:\Users\Milos\Desktop\sql1\sql1\sql1\obj\Debug\sql1.exe
+C:\Users\Milos\Desktop\sql1\sql1\sql1\obj\Debug\sql1.pdb
+C:\Users\Milos\Desktop\sql1\sql1\sql1\bin\Debug\sql1.exe
+C:\Users\Milos\Desktop\sql1\sql1\sql1\bin\Debug\sql1.pdb
+C:\Users\Milos\Desktop\sql1\sql1\sql1\obj\Debug\sql1.csprojResolveAssemblyReference.cache
+C:\Users\WDeath\Downloads\sql2\sql1\sql1\sql1\bin\Debug\sql1.exe.config
+C:\Users\WDeath\Downloads\sql2\sql1\sql1\sql1\bin\Debug\sql1.exe
+C:\Users\WDeath\Downloads\sql2\sql1\sql1\sql1\bin\Debug\sql1.pdb
+C:\Users\WDeath\Downloads\sql2\sql1\sql1\sql1\obj\Debug\sql1.csprojResolveAssemblyReference.cache
+C:\Users\WDeath\Downloads\sql2\sql1\sql1\sql1\obj\Debug\sql1.csproj.CoreCompileInputs.cache
+C:\Users\WDeath\Downloads\sql2\sql1\sql1\sql1\obj\Debug\sql1.csproj.CopyComplete
+C:\Users\WDeath\Downloads\sql2\sql1\sql1\sql1\obj\Debug\sql1.exe
+C:\Users\WDeath\Downloads\sql2\sql1\sql1\sql1\obj\Debug\sql1.pdb
+C:\Users\Stanko\Desktop\Baze podataka\sql1\sql1\bin\Debug\sql1.exe.config
+C:\Users\Stanko\Desktop\Baze podataka\sql1\sql1\bin\Debug\sql1.exe
+C:\Users\Stanko\Desktop\Baze podataka\sql1\sql1\bin\Debug\sql1.pdb
+C:\Users\Stanko\Desktop\Baze podataka\sql1\sql1\obj\Debug\sql1.csprojResolveAssemblyReference.cache
+C:\Users\Stanko\Desktop\Baze podataka\sql1\sql1\obj\Debug\sql1.csproj.CoreCompileInputs.cache
+C:\Users\Stanko\Desktop\Baze podataka\sql1\sql1\obj\Debug\sql1.exe
+C:\Users\Stanko\Desktop\Baze podataka\sql1\sql1\obj\Debug\sql1.pdb
+C:\Users\Stanko\Desktop\Samoposluga\sql1\bin\Debug\sql1.exe.config
+C:\Users\Stanko\Desktop\Samoposluga\sql1\bin\Debug\sql1.exe
+C:\Users\Stanko\Desktop\Samoposluga\sql1\bin\Debug\sql1.pdb
+C:\Users\Stanko\Desktop\Samoposluga\sql1\obj\Debug\sql1.csprojResolveAssemblyReference.cache
+C:\Users\Stanko\Desktop\Samoposluga\sql1\obj\Debug\sql1.csproj.CoreCompileInputs.cache
+C:\Users\Stanko\Desktop\Samoposluga\sql1\obj\Debug\sql1.exe
+C:\Users\Stanko\Desktop\Samoposluga\sql1\obj\Debug\sql1.pdb
+C:\Users\Stanko\Desktop\Samoposluga - ubaci vise rekorda i prepravi ekavicu pa stavi na git\sql1\bin\Debug\sql1.exe.config
+C:\Users\Stanko\Desktop\Samoposluga - ubaci vise rekorda i prepravi ekavicu pa stavi na git\sql1\bin\Debug\sql1.exe
+C:\Users\Stanko\Desktop\Samoposluga - ubaci vise rekorda i prepravi ekavicu pa stavi na git\sql1\bin\Debug\sql1.pdb
+C:\Users\Stanko\Desktop\Samoposluga - ubaci vise rekorda i prepravi ekavicu pa stavi na git\sql1\obj\Debug\sql1.csprojResolveAssemblyReference.cache
+C:\Users\Stanko\Desktop\Samoposluga - ubaci vise rekorda i prepravi ekavicu pa stavi na git\sql1\obj\Debug\sql1.csproj.CoreCompileInputs.cache
+C:\Users\Stanko\Desktop\Samoposluga - ubaci vise rekorda i prepravi ekavicu pa stavi na git\sql1\obj\Debug\sql1.exe
+C:\Users\Stanko\Desktop\Samoposluga - ubaci vise rekorda i prepravi ekavicu pa stavi na git\sql1\obj\Debug\sql1.pdb
